@@ -1,11 +1,11 @@
 
-Dumb Detector with Tkinter
+**Dumb Detector with Tkinter**
 
-Overview
+**Overview**
 
 A lightweight Tkinter project that playfully asks the user if they are dumb. The application provides two buttons - "Yes" and "No." If the user clicks "No," the application humorously changes its placement on the screen. If the user clicks "Yes," a message is printed to the console saying "I knew it."
 
-Features
+**Features**
 
 Simple Tkinter GUI.
 
@@ -16,20 +16,18 @@ Dynamic placement adjustment on clicking "No."
 Console message on clicking "Yes."
 
 
-Usage
 
-Clone the repository:
+**Clone the repository:**
 
 bash
 
 Copy code
 
-git clone https://github.com/yourusername/dumb-detector-tkinter.git
+git clone https://github.com/CodebyShaurya/tkinter.git
 
 Run the application:
 bash
 
-Copy code
 
 python tk.py
 
